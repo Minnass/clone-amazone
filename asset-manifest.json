@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clone-amazone/static/css/main.1745c4ac.css",
+    "main.js": "/clone-amazone/static/js/main.45c27515.js",
+    "static/media/bannerImgTwo.jpg": "/clone-amazone/static/media/bannerImgTwo.bc1bdb910ead16c65197.jpg",
+    "static/media/bannerImgFour.jpg": "/clone-amazone/static/media/bannerImgFour.8f7fc6b56e74dba2b6f9.jpg",
+    "static/media/bannerImgOne.jpg": "/clone-amazone/static/media/bannerImgOne.efb3d39101f7ef77d616.jpg",
+    "static/media/bannerImgThree.jpg": "/clone-amazone/static/media/bannerImgThree.c80809bb40bee5c34372.jpg",
+    "static/media/bannerImgFive.jpg": "/clone-amazone/static/media/bannerImgFive.aa945e25375bfdee385f.jpg",
+    "static/media/logo.png": "/clone-amazone/static/media/logo.1c9be0b254d3ff1dc9e9.png",
+    "static/media/emptyCart.png": "/clone-amazone/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/Flag_of_Vietnam.svg.png": "/clone-amazone/static/media/Flag_of_Vietnam.svg.6773042ca01accbcfd26.png",
+    "static/media/bdFlag.webp": "/clone-amazone/static/media/bdFlag.19765596ff60685bb199.webp",
+    "static/media/darklogo.svg": "/clone-amazone/static/media/darklogo.1b07e9420b91268c79a0aec485034c5d.svg",
+    "index.html": "/clone-amazone/index.html",
+    "main.1745c4ac.css.map": "/clone-amazone/static/css/main.1745c4ac.css.map",
+    "main.45c27515.js.map": "/clone-amazone/static/js/main.45c27515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1745c4ac.css",
+    "static/js/main.45c27515.js"
+  ]
+}
